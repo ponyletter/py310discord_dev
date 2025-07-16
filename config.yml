@@ -1,0 +1,16 @@
+# Discord 机器人设置
+discord_client_id: "1394944758484570152"
+# 机器人响应的前缀，例如 !help。留空则只响应 @提及
+command_prefix: "!"
+
+# 文件路径设置
+faq_file: "FAQ.md"
+banned_words_file: "banned_words.txt"
+
+# Flask API 设置
+api_host: "0.0.0.0"
+api_port: 5001
+
+# Gemini 模型设置
+gemini_model: "gemini-1.5-flash"
+discord_token: "MTM5NDk0NDc1ODQ4NDU3MDE1Mg.GiLGGJ.fYfleESbH-23270DwRBd4mikxfq1pMKax-dk4k"

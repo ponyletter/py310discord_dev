@@ -1,0 +1,4 @@
+badword1
+profanity
+undesirable
+spam_word

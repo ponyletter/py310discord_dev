@@ -1,0 +1,7 @@
+discord.py
+google-generativeai
+PyYAML
+Flask
+python-dotenv
+watchdog
+waitress
